@@ -1,0 +1,1 @@
+--playerChoices={"Enter" = true, "Exit" = false}
